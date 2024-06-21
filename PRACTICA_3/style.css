@@ -1,0 +1,38 @@
+body{
+    font-size: 20px;
+}
+h1{
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.container{
+    background-color: antiquewhite;
+    width: 550px;
+    margin-top: 30px;
+    border-radius: 5px;
+    padding: 20px;
+}
+label{
+    margin-bottom: 20px;
+}
+button{
+    width: 130px;
+    height: 40px;
+    font-size: 17px;
+    border-radius: 6px;
+    border: none;
+    background-color: #f1ac57;
+}
+button:hover{
+    background-color: #f29c34;
+}
+.condiciones{
+    font-size: 15px;
+    color: rgb(33, 33, 230);
+    margin-bottom: -10px;
+}
+.btn{
+    width: 550px;
+    background-color: transparent;
+    
+}
