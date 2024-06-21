@@ -32,7 +32,7 @@
             <div>
               <label for="Edad" class="form-label">Ingrese su Edad</label>
               <div class="input-group">
-                <input type="number" class="form-control" name="edad" minlength="17" maxlength="150" required>
+                <input type="number" class="form-control" name="edad" minlength="17" maxlength="150" placeholder="Edad minima de 16" required>
               </div>
             </div>
 
