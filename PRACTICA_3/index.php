@@ -26,13 +26,13 @@
             <div>
               <label for="Estatura" class="form-label">Ingrese su Estatura</label>
               <div class="input-group">
-                <input type="number" class="form-control" name="estatura" minlength="120" maxlength="230" required>
+                <input type="number" class="form-control" name="estatura" minlength="120" maxlength="230" placeholder="Ingrese su estatura en cm" pattern="[1-9]{2,3}" required>
               </div>
             </div>
             <div>
               <label for="Edad" class="form-label">Ingrese su Edad</label>
               <div class="input-group">
-                <input type="number" class="form-control" name="edad" minlength="17" maxlength="1000" required>
+                <input type="number" class="form-control" name="edad" minlength="17" maxlength="150" required>
               </div>
             </div>
 
